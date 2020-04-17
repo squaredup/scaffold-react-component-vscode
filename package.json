@@ -4,6 +4,7 @@
 	"description": "Scaffolds a React component with styles, tests and a story.",
 	"version": "1.0.0",
 	"publisher": "squaredup",
+	"repository": "github:squaredup/scaffold-react-component-vscode",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
