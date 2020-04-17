@@ -1,10 +1,13 @@
 {
 	"name": "scaffold-react-component-vscode",
-	"displayName": "scaffold-react-component",
+	"displayName": "Scaffold React Component",
 	"description": "Scaffolds a React component with styles, tests and a story.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "squaredup",
-	"repository": "github:squaredup/scaffold-react-component-vscode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/squaredup/scaffold-react-component-vscode"
+	},
 	"engines": {
 		"vscode": "^1.44.0"
 	},
